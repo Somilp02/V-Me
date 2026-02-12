@@ -52,11 +52,11 @@ export const Footer: React.FC = () => {
             <ul className="space-y-4 text-sm text-gray-400">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="mt-0.5 text-brand-gold" />
-                <span>123 Fashion Street, Cyber City,<br/>Gurgaon, Haryana 122002</span>
+                <span>Potdar Niwas, Jawahar Chowk,<br/>Tikamgarh, Madhya Pradesh, India, 472001</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-brand-gold" />
-                <span>+91 98765 43210</span>
+                <span>+91 62327 95005</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-brand-gold" />
